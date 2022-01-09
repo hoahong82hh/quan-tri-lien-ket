@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hoahong82hh.github.io/quan-tri-lien-ket/sitemap.xml

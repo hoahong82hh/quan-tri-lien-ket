@@ -1,1 +1,0 @@
-# quan-tri-lien-ket
